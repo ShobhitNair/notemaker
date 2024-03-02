@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://notemaker-backend.vercel.app",
+  "proxy": "https://notemaker-backend-d4y3iv2xf-shobhitnair.vercel.app",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.4",
     "@reduxjs/toolkit": "^1.9.1",
